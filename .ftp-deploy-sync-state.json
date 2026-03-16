@@ -1,0 +1,1131 @@
+{
+    "description": "DO NOT DELETE THIS FILE. This file is used to keep track of which files have been synced in the most recent deployment. If you delete this file a resync will need to be done (which can take a while) - read more: https://github.com/SamKirkland/FTP-Deploy-Action",
+    "version": "1.0.0",
+    "generatedTime": 1723533921488,
+    "data": [
+        {
+            "type": "folder",
+            "name": ".vscode"
+        },
+        {
+            "type": "file",
+            "name": "Catalogue.html",
+            "size": 22084,
+            "hash": "817093ed0f2ba43f26e7bc97d3084d309948f5528b1553dee3dd64085a8ad4c1"
+        },
+        {
+            "type": "file",
+            "name": "Comilia.html",
+            "size": 26375,
+            "hash": "ce1d9cd7e102dd582f9a5fb052fb7a02164c494a30ceda074575661542bb391b"
+        },
+        {
+            "type": "file",
+            "name": "Delia.html",
+            "size": 26968,
+            "hash": "38439c0aea84422623170862c9232c0b75565882e91eea99abfdc42e5b0d3961"
+        },
+        {
+            "type": "file",
+            "name": "Duca.html",
+            "size": 26222,
+            "hash": "8359854bbe74377522f04a680040d85a632a0b2f5b0eb7a3b99a004d28b90763"
+        },
+        {
+            "type": "file",
+            "name": "Basin-Collection.html",
+            "size": 24673,
+            "hash": "20142fe77f2ebe33e142b79fe5b9de9c8e83069761d849c50179c99d16b3386b"
+        },
+        {
+            "type": "file",
+            "name": "Nero.html",
+            "size": 27079,
+            "hash": "1a53a5a720f87e3edad4e9d86e8bc03f7b8ec8fcbe516e4db510cdf7dfb5d8d1"
+        },
+        {
+            "type": "file",
+            "name": "PVC-vanity-collections.html",
+            "size": 25139,
+            "hash": "e0337055cc857ef644aba03fcf13cdba8760ce1f31bce39ddc42c2dfab04f9e2"
+        },
+        {
+            "type": "file",
+            "name": "Robern.html",
+            "size": 26400,
+            "hash": "4f792b2b3132f22b497b2b687a31be52530efb50f9956071da968e1b637a6c2c"
+        },
+        {
+            "type": "file",
+            "name": "Slab-Vanity-Collection.html",
+            "size": 25014,
+            "hash": "30ea858111b5c5003f6f769fe71ba66573ae7919cf4a849e623fe5ac6246dd54"
+        },
+        {
+            "type": "file",
+            "name": "Volga.html",
+            "size": 27243,
+            "hash": "892ea2ed36ba21ce0378b97bf804f72864b57df6506235ddfe5ee244765718c3"
+        },
+        {
+            "type": "file",
+            "name": "Willow.html",
+            "size": 26067,
+            "hash": "543d5d7971afe52b88458dc442a1def2e7f5e013d87f4a494900a96fd3984666"
+        },
+        {
+            "type": "file",
+            "name": "about.html",
+            "size": 23369,
+            "hash": "eb443267c0099f5fc9c15d4f25cdc918c1de935bbc5f9ec9bbcd25433c98bd16"
+        },
+        {
+            "type": "folder",
+            "name": "assets"
+        },
+        {
+            "type": "file",
+            "name": "contact.html",
+            "size": 29458,
+            "hash": "cd87b2f3ba68f9a36d6cec8808458af9930d44d7c40f97104eea29784fcfc0c8"
+        },
+        {
+            "type": "file",
+            "name": "index.html",
+            "size": 36049,
+            "hash": "69f2bc7199d23bbda64b33bc2f1e339b9c747a82507c2ec5106c4f46d2bd501f"
+        },
+        {
+            "type": "folder",
+            "name": "vendors"
+        },
+        {
+            "type": "file",
+            "name": "vera.html",
+            "size": 26910,
+            "hash": "63e2bd051c901056ba926ca1703d97b3053dbc6044ca9026eece2edd71d61ab6"
+        },
+        {
+            "type": "file",
+            "name": ".vscode/settings.json",
+            "size": 40,
+            "hash": "41b053a69f57d282624ccccbc44ef195ee13770e7037cf59f22cffc9c749f422"
+        },
+        {
+            "type": "file",
+            "name": "assets/01.png",
+            "size": 316179,
+            "hash": "235f11078c29176083820eb258ebc7afe13b1e3e94cd5914c17a1e32eee86065"
+        },
+        {
+            "type": "file",
+            "name": "assets/bg1-home1.webp",
+            "size": 4014,
+            "hash": "6a4afaf29bb30809a59a97a6dc0226b40dc04d26d458e22c0de6b8000644464a"
+        },
+        {
+            "type": "folder",
+            "name": "assets/css"
+        },
+        {
+            "type": "folder",
+            "name": "assets/img"
+        },
+        {
+            "type": "folder",
+            "name": "assets/js"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/logo/favicon.png",
+            "size": 58810,
+            "hash": "806b2d91d87384294ce66b7a8023554b9ef02f183f94791bd86e2bd41c7e38c0"
+        },
+        {
+            "type": "file",
+            "name": "./assets/img/logo/logo.png",
+            "size": 112932,
+            "hash": "a608e3b800e17ffe2f25de3312144f9c490363d2ae75ddc2063850e6646b5c97"
+        },
+        {
+            "type": "folder",
+            "name": "assets/videos"
+        },
+        {
+            "type": "folder",
+            "name": "vendors/bootstrap"
+        },
+        {
+            "type": "folder",
+            "name": "vendors/bigpicture"
+        },
+        {
+            "type": "folder",
+            "name": "vendors/countup"
+        },
+        {
+            "type": "folder",
+            "name": "vendors/fontawesome"
+        },
+        {
+            "type": "folder",
+            "name": "vendors/gsap"
+        },
+        {
+            "type": "folder",
+            "name": "vendors/hamburgers"
+        },
+        {
+            "type": "folder",
+            "name": "vendors/imagesloaded"
+        },
+        {
+            "type": "folder",
+            "name": "vendors/is"
+        },
+        {
+            "type": "folder",
+            "name": "vendors/loaders.css"
+        },
+        {
+            "type": "folder",
+            "name": "vendors/lodash"
+        },
+        {
+            "type": "folder",
+            "name": "vendors/overlayscrollbars"
+        },
+        {
+            "type": "folder",
+            "name": "vendors/popper"
+        },
+        {
+            "type": "folder",
+            "name": "vendors/prism"
+        },
+        {
+            "type": "folder",
+            "name": "vendors/swiper"
+        },
+        {
+            "type": "file",
+            "name": "assets/css/Custom.css",
+            "size": 86645,
+            "hash": "a995ca75d6294c949f93fc97867047cfe53a1e448bcd070c53295fb9b54646e0"
+        },
+        {
+            "type": "file",
+            "name": "assets/css/theme.min.css",
+            "size": 422190,
+            "hash": "f29768e52b12ffdb2d7561721f99acd6ac4dd8b951a803ecdb084c2182f3a530"
+        },
+        {
+            "type": "file",
+            "name": "assets/css/user.min.css",
+            "size": 39,
+            "hash": "b8554fff4bdeca9422c54e0dea708f34b85c03484a8c6e2065c455cd98273fb6"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/11.jpg",
+            "size": 149654,
+            "hash": "872801e041637b269dd9d843d82be13e43b1b0d579d2aecfd06d551d65ec9a84"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/10.jpg",
+            "size": 174190,
+            "hash": "ef3222b6a5fc35e0facb67aa6d60d953ed289a923f1e1209e5a417ecde7123e4"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/12.jpg",
+            "size": 143231,
+            "hash": "ae0f40043be4fe7c1cef99ed7d8c4f61b8a2d3b020e14b12167f1db07d737c86"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/13.jpg",
+            "size": 208081,
+            "hash": "ac89dc1d39e8dd7649e52448d2badaaeb3993a180aa99c42530029f6103d81fe"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/14.jpg",
+            "size": 115444,
+            "hash": "32c824d49aa6deea4df1946b0a7b1602750037867fef2a4801f45dc918bd9d40"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/6.jpg",
+            "size": 98927,
+            "hash": "8e33e6bdd89a934ea93f284176c14daf73782c622ee43c6b5a997f9519ccb814"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/7.jpg",
+            "size": 72228,
+            "hash": "29cc362ab5201d02f8231acf86e76c8ddfaa83ba36d2c7383e507835bd74d89e"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/8.jpg",
+            "size": 90742,
+            "hash": "d3950f73f299440d020a8882f1713990db718b6d5708f745042cd2a6c4a8f361"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/9.jpg",
+            "size": 134390,
+            "hash": "d66e110960b29e3b14b78261271f211cd23e8ae43b23523122b308b92237d644"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/About-vanity.webp",
+            "size": 237672,
+            "hash": "646cd2bd5e1f946c947b5df4dfde8bf29684fd26ae1ab039fb54d2ea0bb4c327"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/About-vanity1.webp",
+            "size": 472284,
+            "hash": "489bacaf41c69734f2804266ed2f9e5cf9fb0bb361316f7dd588708b375858f1"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/Country-Pointe-04.webp",
+            "size": 169894,
+            "hash": "f1d5b3c0eb0d19c21fa7d431fc65b869f32c2613ee9a90d68fe2601e5fa93982"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/Basin Collection.jpg",
+            "size": 64862,
+            "hash": "09e273b88123f0fe87692435095c65c7d9dd0b91934d47fbe9f45574f9647cef"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/HDMR coll slider.jpg",
+            "size": 276560,
+            "hash": "7c32a8592db3215734e15dfe4eaa00bf45e1e98fb784c1bdef0471f1da672335"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/Home-Basin Collection.webp",
+            "size": 44264,
+            "hash": "151c8183900bdaea694f44daa9743f34767ddbe1ffdc97190a7aa5dd092f97c6"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/Home-PVC Vanity Collection.webp",
+            "size": 41628,
+            "hash": "ecd7edd400050c14089985984d8a2c250e99b1206b5a0d18b10a3060ee887a62"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/Home-Slab Vanity Collection.webp",
+            "size": 45664,
+            "hash": "da997023bce17a25e06808b851ad3708595120f561a681cd16c937ed5583cf83"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/Home-beauty-design1.webp",
+            "size": 955398,
+            "hash": "a25f5fd2fcb51c9166c2e2e5d41480dbbe1d826c3350cdc12f6aa42535829fa5"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/Home-beauty-design2.webp",
+            "size": 909160,
+            "hash": "1a5c86f0caa5b713b3b1571fc9835d9edf2f78ecabefbaae8fefe0d4bac6ccda"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/Home-progress-takes.webp",
+            "size": 119916,
+            "hash": "edbd6c816addd879272c5a9650dec848cfc765c89eeb9b9e91d65971e2c3d445"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/Home-progress-takes2.webp",
+            "size": 507624,
+            "hash": "940aea35748821682001d01f0b6d68ee1abd5a2506e30cc648a73939912f34c8"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/Home-progress-takes3.webp",
+            "size": 313160,
+            "hash": "e7593b2709bdf647ad7475f508494ccd9df45faa9a99ca88f95932c2fab0dc25"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/Home-slide-1.jpg",
+            "size": 5432892,
+            "hash": "74e55cb91005e43c4289842340d1727af8b942e567e048a8252999fb1939d6af"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/Home-slide-1.zip",
+            "size": 5376540,
+            "hash": "bc1ca9001d00280782cc1021087aa033ef19f0ab53eba4fcbe4f64fd39c4a4b4"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/Home-slider1.webp",
+            "size": 460600,
+            "hash": "6da092c2a9ebdba4985f7c642f39e1b702850699fa4e29e022535a3bf1f96a6b"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/Home-slider2.webp",
+            "size": 178470,
+            "hash": "c38a161b7da0cc3dc397efbccfe5b1d444dc19a133494272315d3f3d864853fa"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/Home-slider3.webp",
+            "size": 227306,
+            "hash": "8ea078e10c72a61da68fbe0d348ec5fb36f1a8419090452909d0c9fadd7c01b3"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/Moisture.png",
+            "size": 119372,
+            "hash": "5a761668e691fff2c8bba3175fdb75baba1407b69e3b5da7f6b4ca2ad74bb30c"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/OIP (13).jpeg",
+            "size": 40654,
+            "hash": "7226b43ed1947b14748f8fb31b2d6870d8a46a6bf1658ff62fee9125878934a9"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/OIP (14).jpeg",
+            "size": 7177,
+            "hash": "7cdf6298937cf29be793b0a46f5c3576627cf4194e6f6d13acdc22e0292db356"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/VinylFlooring (1).png",
+            "size": 157452,
+            "hash": "cc7eb0bfcc612d240f192f27bc784e0248c2a42da53a72aee530dc5df8c7c0f0"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/VinylFlooring.png",
+            "size": 157452,
+            "hash": "cc7eb0bfcc612d240f192f27bc784e0248c2a42da53a72aee530dc5df8c7c0f0"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/about.jpg",
+            "size": 730103,
+            "hash": "d65067f39da95bcf53f6379e84a72d82f38e09eb3f36bc7ecf2a7c62ae6c66e4"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/aboutbg.jpg",
+            "size": 231530,
+            "hash": "68d101266072e920434949b01b8f37307348bed4661da61c98b40d2836400696"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/aboutimg.jpg",
+            "size": 79313,
+            "hash": "b487a2048b685218027868f3586f2a103e5d2d4438d3e11fbcfbfb7391983d19"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/aboutimg2.jpg",
+            "size": 260493,
+            "hash": "14e035dce8e9196c1d6bbc8724d3f7b5df7d5d17353055585d6353a2e8e876db"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/b8fa4405067bce2be11e825cc3c672aa.jpg",
+            "size": 28601,
+            "hash": "46a7234795eac4903f1196afd14eac4c58fbf5567749ffe88c5cf136502f3ef7"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/background-1.jpg",
+            "size": 125748,
+            "hash": "5d98701312c6b22a4c5d64fa3cd210f1c36e93122bd4539b7da6f0f196525d1c"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/background-14.jpg",
+            "size": 281378,
+            "hash": "6fb6b0d26ef4009dac65ca7315ab45895b7465bb3edbb7dada8d8dce416cb775"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/background-15.jpg",
+            "size": 304384,
+            "hash": "26f2668518ceb6a70242543a2b17c8c98d541accd64da015a596f70066743f04"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/background-2.jpg",
+            "size": 150941,
+            "hash": "b113fae3b9bfb33245a207792ffc5b7bd58e57c7c11a85e47adbd53284351ed4"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/bacteria.png",
+            "size": 1796,
+            "hash": "dfe68251447039895670cb5b9c5cb9565af2404dc685c3360f8debfd69256fea"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/ceo.jpg",
+            "size": 40048,
+            "hash": "657644bd460332b86df1b178295743d9f13996bdf51fe502bc1427a0044aae27"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/checkmark.png",
+            "size": 37346,
+            "hash": "6f2469c4214849841a66705feacfce34064bb6ea7f69709db3e7c8786df4fc28"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/clean.png",
+            "size": 1131,
+            "hash": "8febd798d3d98605a82f37c51eedad558adbb4d77a4a46265ef841023d4215e9"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/client1.png",
+            "size": 23447,
+            "hash": "19860816e95e09ce619aac60e53134530e20bdb69f3f6b103f7efb446f978bf3"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/client2.png",
+            "size": 22444,
+            "hash": "6ae54dcea323d73befedc7783b37ded095994250c6bccbb816a19421c85c683b"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/client3.png",
+            "size": 13097,
+            "hash": "37c13b946f85dcb870155f1a9a57723bc1de49497608a5db7cffb806ce95b474"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/design2.jpg",
+            "size": 63119,
+            "hash": "e0c60fd76a5ec3df596567eacaf3c5b2f549ac21985776d245f2e289ae17d1e6"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/design3.jpg",
+            "size": 72470,
+            "hash": "671bb3941e37baec5f3f43b068d8be3d221590bc89d1d9cd07d27e500989aaf6"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/dots-green.svg",
+            "size": 3985,
+            "hash": "29e612c0fd88d1ee01154bf2787cce8c7fca1d9b1c4f5071b6637ef785879c8b"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/environment-friendly.png",
+            "size": 1751,
+            "hash": "e28348f420c6bd62b35384e05a98afc88a8671659911da68b444c169232e07a9"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/export.jpeg",
+            "size": 80419,
+            "hash": "17dc07f4ba01c3e5ac10633b35d3c49ffd7a464db93eb1b44e5998a365613c6a"
+        },
+        {
+            "type": "folder",
+            "name": "assets/img/favicons"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/fire.png",
+            "size": 1707,
+            "hash": "5de78558e297dabfa63e9bef61f651712c9f0c6c70980f3bd641d297d5ca6f1b"
+        },
+        {
+            "type": "folder",
+            "name": "assets/img/gallery"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/header-1.jpg",
+            "size": 148225,
+            "hash": "0211d8721c9968392fcfeb1c41aede539edcd5a31bb4f17d6afa91e4282b6981"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/header-5.jpg",
+            "size": 99192,
+            "hash": "2346932d2f0ba949d90c7771e2df64c1d8c1b3a45908d0a4c37d25b9f984594b"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/header-6.jpg",
+            "size": 110344,
+            "hash": "65069aa068392d1f9493f95cb002bb2f8a80cbc340abfd96f57e31ed3bb1b679"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/homeback.webp",
+            "size": 4014,
+            "hash": "6a4afaf29bb30809a59a97a6dc0226b40dc04d26d458e22c0de6b8000644464a"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/icon-play-o.svg",
+            "size": 538,
+            "hash": "2ab591d37572ef56c5119a1eccf087a7d8c61225a4931a58cfa759a89b3b0542"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/icon-play.svg",
+            "size": 1390,
+            "hash": "fedfe363657eaaa993c1a8400061c07daeafb09090907c84af2c3151409eeebb"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/icon-quote.svg",
+            "size": 949,
+            "hash": "973825718be468b661192e40455f4bc7e79bc0f376e5ca5d25da05c0b4940df7"
+        },
+        {
+            "type": "folder",
+            "name": "assets/img/icons"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/icons8-moisture-64.png",
+            "size": 1394,
+            "hash": "ce79bde627fd30f9bc4f56c52deedb5ca18bfca969101d58d84ec0e85bea8662"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/image 1.jpg",
+            "size": 8023511,
+            "hash": "838048698816544fe66964d78c37531f84526888534263e22f981dda1501d074"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/image 2.jpg",
+            "size": 11509973,
+            "hash": "98838f8e4e96d0f47e4cc38b9f43c06d667ddff71067c30a295f60c70db2d9a8"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/image 3.jpg",
+            "size": 31086,
+            "hash": "39e69a49114b57cc963c5c28a8747f2f995e15da33a96349e15549ed7161b501"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/img 1.webp",
+            "size": 57774,
+            "hash": "2c15ce853edf3bb2f9b27448612105646cc2cae348755c59b5ca80c280fb95a4"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/img 2.jpeg",
+            "size": 5484,
+            "hash": "be672dd8e79555c2767bae99917c6a8a828e62c4a1eabebba8283b4bae060a49"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/img 3.jpeg",
+            "size": 4657,
+            "hash": "3edc7a2a7e70e2b7ef9a71903cc06da90e81e7f9fd523d53e28b81f5856f71ae"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/img 4.jpg",
+            "size": 186211,
+            "hash": "40cce66f6ff70bdf2e239745e86ef81b1e3ed1c07d5f622182ebb29491e7fd80"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/interior-1.jpg",
+            "size": 219547,
+            "hash": "f93829e4bbffac8c2956aeba38bb6444dae84a0e186f6d3501639ce3d26dac42"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/interior-4.jpg",
+            "size": 214847,
+            "hash": "424e93cb8f138627f07610fa03d2153c5a6e49948194b60d7fb085a111087596"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/interior-6.jpg",
+            "size": 221147,
+            "hash": "d5103c3b434b92006f0be807a282829f18ad1e5d8ca35de01a55c336eef28964"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/logistics-transportation.jpg",
+            "size": 12122899,
+            "hash": "978985b0ac1b1e85299f3ad138de21d5614e44639c15097f4f883fcc6eb41934"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/logo-dark.png",
+            "size": 677,
+            "hash": "6c52acb2cea27db2b488b432992330681bd99beca0523e4dafea6f02c8044ad9"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/logo-light.png",
+            "size": 641,
+            "hash": "9e9f5bb32537ddd2b1aa6fc7917a7dee576e4d54482d3525fa55c342c54deef5"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/logo_make_11_06_2023_272.jpg",
+            "size": 7444197,
+            "hash": "9267888f27062f014f0bec06ea9545fd7a33289895df571c91644d7460b1b98a"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/neat-modern-bathroom-sink-decorated-with-vase-captured-white-bathroom.jpg",
+            "size": 8908525,
+            "hash": "bbed8eb674e646dd05f733799d2df20ddb516d4c894bf67ac63a3457c86f5b85"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/news-1.jpg",
+            "size": 1023014,
+            "hash": "40ca89a0122e2b30fa65f063dbb74b2b6f7faca3a6536ea62d9e43eda4c08eea"
+        },
+        {
+            "type": "folder",
+            "name": "assets/img/partner"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/portrait-1.jpg",
+            "size": 44028,
+            "hash": "0addf8a066bdb76b1bec1874702210c406c6d6464a1ec88f86850c10905a6897"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/portrait-3.jpg",
+            "size": 47180,
+            "hash": "6ae44367fb022d3034674a99ea014f0acf37fe87ee09051d97b1e530cb6e66cf"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/portrait-4.jpg",
+            "size": 49864,
+            "hash": "77bc1f63e48a51a3d14c3458385d488f595d98b7679f11279277066629134d9d"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/portrait-5.jpg",
+            "size": 48745,
+            "hash": "69ed60c13e156403d8b69acca3325fd03dde764fb5681d60e8e67b80af8dca02"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/portrait-6.jpg",
+            "size": 24517,
+            "hash": "bff5ea7afbd11d675aade8f0f8053469b232488d168c2a7f38e6c573da83d132"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/portrait-7.jpg",
+            "size": 28660,
+            "hash": "6fab502e0049925e3c2c07544275b3dea817dd53d61c19ad84b4bcf7bd031266"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/portrait-8.jpg",
+            "size": 5400,
+            "hash": "40dd0cb04662a3b38fb5a331bb70cb47c6e114df00d04dbf2617467e48e9bc5b"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/save-money.png",
+            "size": 1280,
+            "hash": "81be23262051f65542a52782d0663b54b07acd3d49a7574d062186526757f30a"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/signature.png",
+            "size": 1475,
+            "hash": "e6999cf2289f2718b61b5f8db1f7de629acea8229688e16c534b75eef402ec1b"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/slider -3.jpg",
+            "size": 5038440,
+            "hash": "5a4feff45d75b83226c9d1d0b5fc1ec3844ece9663cf99dcc428d0474d6f0d84"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/slider 1.jpg",
+            "size": 4432101,
+            "hash": "6c035dd0e4ffd8de59f369146044540477271e7a04a44560c58bdf193c5f2574"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/slider 2.jpg",
+            "size": 8123505,
+            "hash": "b2f10f461fffff31559c3a6fe5661e8a8db3c7d58770058ff61ce4761a70d2d6"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/slider 3.jpg",
+            "size": 2596384,
+            "hash": "11ac2ab7cffefaa7e6d8c46da46e35f9114a7f83c635ed8fad280d42bcfbe9bb"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/slider 4 (1).jpg",
+            "size": 2786598,
+            "hash": "4a026588078310b256f689d91e0def5b8a7d43cd9d8fc96ea0a5d63ffc63bbbe"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/slider 4.jpg",
+            "size": 5371662,
+            "hash": "0027a8291500a4e20cc4eb8d1c9037647432b4bbe62bf6a30bcf0c7c9f8aedd2"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/slider 5.jpg",
+            "size": 4322978,
+            "hash": "5d5da0d8b38d3311cde73a844c4c12bd1860f2f2b80be63f64b19eef09dd5ccf"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/slider 7.jpg",
+            "size": 1214706,
+            "hash": "e4d7aa8b1bb60cc413d4c1e412839b92e515dae24e33d47fa66bd0cc823e9ecd"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/slider-2.jpg",
+            "size": 2914440,
+            "hash": "7d35d3b614447ff5ae0e671f1624947dd1ac12de6555c5f158c2f5577dce8a1f"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/square-1.jpg",
+            "size": 30170,
+            "hash": "f349eac70e755aae8a7500f36d933ac068dd2c7f27c885541885445e3dc1ee93"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/square-2.jpg",
+            "size": 27452,
+            "hash": "6b1e594b410948573ce9b7e9bc1b8fbd8eb96cfc500994af879472e021a60d95"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/transportation.webp",
+            "size": 114194,
+            "hash": "43b635c339d087b3bc774edd8fef1d082793ff24893469fb1f67768f0ca70cd8"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/vera.jpg",
+            "size": 2821687,
+            "hash": "6192cb9b457002ff2d60704b4b1021a9325242133d2bcc339da29b0006535ce4"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/video-1.jpg",
+            "size": 46276,
+            "hash": "a31744050d897c0cec62fedd897de5fa504f52ac546266ededc2e6ccc8109843"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/video-screenshot-2.jpg",
+            "size": 128115,
+            "hash": "05ebf425e9d8dccd29171f22873bb144a05928622ea4150991169855b9c5ee48"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/virus (3).png",
+            "size": 2410,
+            "hash": "81fa32bf00328742d77f66afde8f303f03a5dd6e2984464b5be80dd25774f33d"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/water.png",
+            "size": 1476,
+            "hash": "aa5a731f4f8f960796c90a88ead4170486b3943f3bbe9584253b8e6a55066548"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/why-choose-us.jpg",
+            "size": 105540,
+            "hash": "6fd39a4c921d9a4458d9d7f4599a7dcca13ce3e734a6f589d3f856365bd5b356"
+        },
+        {
+            "type": "file",
+            "name": "assets/js/script.js",
+            "size": 1583,
+            "hash": "5a27663914d448f4f7b3d0f69f579747c36c1722d0eff22155bde95ebcdf84a9"
+        },
+        {
+            "type": "file",
+            "name": "assets/js/theme.js",
+            "size": 63861,
+            "hash": "eea43f9ee552fde77f1f278148f0a5e769571bd7d102dec8b2c288f4da0dfca3"
+        },
+        {
+            "type": "folder",
+            "name": "assets/videos/morning-routine"
+        },
+        {
+            "type": "file",
+            "name": "vendors/bootstrap/bootstrap.min.js",
+            "size": 59219,
+            "hash": "70c3d690bdc5ce3b9a1527c46044989a3176e610882fa99f4523e75bc395bcce"
+        },
+        {
+            "type": "file",
+            "name": "vendors/bigpicture/BigPicture.js",
+            "size": 23990,
+            "hash": "c791e60eb575f115f550288af09dec2b94060cb7c7ada0e12aad86f39016f4c9"
+        },
+        {
+            "type": "file",
+            "name": "vendors/countup/countUp.umd.js",
+            "size": 10814,
+            "hash": "2f78b769bd03a19ccb385095ef5cca468362ad1fc1d7f58433a572a94142265d"
+        },
+        {
+            "type": "file",
+            "name": "vendors/fontawesome/all.min.js",
+            "size": 1196706,
+            "hash": "812ab0e46f86b2ce98ab2425ab2224b90d0845952a1ac0d5abd734b6217e98bf"
+        },
+        {
+            "type": "file",
+            "name": "vendors/gsap/customEase.js",
+            "size": 18448,
+            "hash": "7554d31d34e7ffe587c30b85abeb63d53b9c7370534e28fd9f91011fdca06897"
+        },
+        {
+            "type": "file",
+            "name": "vendors/gsap/gsap.js",
+            "size": 156770,
+            "hash": "3bf9beea1c63bf90423cb06c36eb82ac8bdefd175bc8476eaf41b3f353cfcf14"
+        },
+        {
+            "type": "file",
+            "name": "vendors/hamburgers/hamburgers.min.css",
+            "size": 22458,
+            "hash": "24fbf98a0312aa6db3b49c6d8e2ba9d2ae8d316bbb2f731b327f45ab23e07dda"
+        },
+        {
+            "type": "file",
+            "name": "vendors/imagesloaded/imagesloaded.pkgd.min.js",
+            "size": 5594,
+            "hash": "96abf166b3cbb5f7df525d86fdeeeccea4af3c120b19bc26b0613530a94e8b44"
+        },
+        {
+            "type": "file",
+            "name": "vendors/is/is.min.js",
+            "size": 13181,
+            "hash": "96725eba539addee483b61331ebf23289dc26d3f34301c244b96be9f6a2822be"
+        },
+        {
+            "type": "file",
+            "name": "vendors/loaders.css/loaders.min.css",
+            "size": 41406,
+            "hash": "4fee62d1d2a36d3c883fb6930ab175d04cbf1a4e16c50ed356b919a328399964"
+        },
+        {
+            "type": "file",
+            "name": "vendors/lodash/lodash.min.js",
+            "size": 73015,
+            "hash": "a9705dfc47c0763380d851ab1801be6f76019f6b67e40e9b873f8b4a0603f7a9"
+        },
+        {
+            "type": "file",
+            "name": "vendors/overlayscrollbars/OverlayScrollbars.min.js",
+            "size": 53768,
+            "hash": "ee61ec65bd3bc8cc949991393cfd5aca248620bc53e8ac94f9afe44c30961c0f"
+        },
+        {
+            "type": "file",
+            "name": "vendors/popper/popper.min.js",
+            "size": 19043,
+            "hash": "4dbd7cd01b766fb4ba08dea5d0949613f9ea958a4126fc2d596f8ef8de034181"
+        },
+        {
+            "type": "file",
+            "name": "vendors/prism/prism.css",
+            "size": 2335,
+            "hash": "87faadabd6d49d76ce3b03f811c6cbb5833d324de241070764067e273e72d164"
+        },
+        {
+            "type": "file",
+            "name": "vendors/prism/prism.js",
+            "size": 54146,
+            "hash": "5069c06c501f089ca050d7f187e9326df009cca00d063d5b6127dd46023cf612"
+        },
+        {
+            "type": "file",
+            "name": "vendors/swiper/swiper-bundle.min.css",
+            "size": 15563,
+            "hash": "3371f801000f02d00a3011c06bd012698f91b361b6d8d4bb76816e8dba84d22f"
+        },
+        {
+            "type": "file",
+            "name": "vendors/swiper/swiper-bundle.min.js",
+            "size": 135676,
+            "hash": "e43a5802d5ed9337da2e507c39c43080de4305db7e520e22fe3ec9fd83c1b72f"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/favicons/apple-touch-icon.png",
+            "size": 2395,
+            "hash": "d942ead96601f9b3b42f3b61b1f94b15ed0df244df46e56d8ed5087d9693f825"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/favicons/favicon-16x16.png",
+            "size": 560,
+            "hash": "7321bda54c3928dd24efc25f6bf8a52327809f5bae62e81a3d232df081ac3741"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/favicons/favicon-32x32.png",
+            "size": 726,
+            "hash": "3daf73e89431d2ce7a7ae8acb9facbafce8b50209b5aae861b21b6088c1c7d27"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/favicons/favicon.ico",
+            "size": 15086,
+            "hash": "7f5e6c1c550a16305e44709c875755835d890f02f34b55321c0f6abaa0df393c"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/favicons/manifest.json",
+            "size": 403,
+            "hash": "d13f3bda8ff0f900f877fb1452ed6544d0d7f333a05432481670c62a71ebf99a"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/gallery/06-f.jpg",
+            "size": 324524,
+            "hash": "ecdffaa39d87e75b88fc59639955260f58b05677432904f9a8c039d9c454b427"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/gallery/07-f.jpg",
+            "size": 310785,
+            "hash": "282efb36674a0855714971bae9ca209e2d39b20b678691e4e4c1da900fcbe62b"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/gallery/09-f.jpg",
+            "size": 245072,
+            "hash": "2fe428a74bc38a668062a7dc0dd9e397670e2fb90ebbf3de0abe96ee8282b572"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/gallery/10-f.jpg",
+            "size": 168049,
+            "hash": "a974cbc8787053d8caa6edb5bb56a4cbe7f2530204b10c02595a6aa61abd936c"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/icons/data-analytics.png",
+            "size": 29144,
+            "hash": "a645fc8ff8ca8916020d99ba1ab9c9d0bab9af5635194530299d9465b47cacd3"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/icons/mail.png",
+            "size": 29549,
+            "hash": "fcc1e86aff18b6cef710f3f208bdff9255d765c126f49e599ca3a52ba63c139e"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/icons/money.png",
+            "size": 50871,
+            "hash": "872f3ff2f960f561aab3360a4919a43f776aa5c76587b2d64bc72e18c432d593"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/icons/sharing.png",
+            "size": 60044,
+            "hash": "e57949402aee0109affcf04ed5589a6b62b9a860d53ee5863fd586c032415c96"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/icons/target.png",
+            "size": 80026,
+            "hash": "e619dbc8241114be2284a316c6ed929a4c5d296f79d11192c6255f6e7aa16505"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/icons/world-globe.png",
+            "size": 51234,
+            "hash": "6a9d484d9560cdb9bf05e2142034a273d280622a5316a60082a7fd86af5a9818"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/partner/logo1.png",
+            "size": 1443,
+            "hash": "78c7d811f5f3a7f05789c4b457f3d6a27e5f236516ede6d9649839cbf74e37a1"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/partner/logo2.png",
+            "size": 3479,
+            "hash": "cbb6f80e745d50e2081a4878fa748e14f2fd250620c8106c97a1d19f68f3775d"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/partner/logo3.png",
+            "size": 3178,
+            "hash": "16aaecd8d38043e929975e5b6dd565d0be3d675098242b4feb808f171c9737fe"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/partner/logo4.png",
+            "size": 2919,
+            "hash": "de49df20c2e84f7b90e10615fdab134ce0c09909b2908a6861b4171f2a032ac8"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/partner/logo5.png",
+            "size": 1207,
+            "hash": "149563606ea2e8a8edef08448709492de09f704697e9648c77bd9c0b903d488e"
+        },
+        {
+            "type": "file",
+            "name": "assets/img/partner/logo6.png",
+            "size": 1553,
+            "hash": "482a32211f4ebc8671c2f14455e9a578ead9dd750512a4b59032228bf06c66d1"
+        },
+        {
+            "type": "file",
+            "name": "assets/videos/morning-routine/video.mp4",
+            "size": 8737305,
+            "hash": "f7ec474bbd7001cdcb19b48fabf94aaec91f6b07e042f9ffa03739356fa252df"
+        },
+        {
+            "type": "file",
+            "name": "assets/videos/morning-routine/video.webm",
+            "size": 8803428,
+            "hash": "7b75ad691e4d8f5155d3d156c51403c0a9b31f6409ff68c4843ffe3caeffc735"
+        }
+    ]
+}
